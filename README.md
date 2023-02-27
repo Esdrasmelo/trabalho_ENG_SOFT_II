@@ -1,11 +1,11 @@
 # Aplicação Web para Barbearias
 
 ## Membros do grupo:
-- Camila Antunes - 0030482211017
-- Esdras de Melo Motta - 0030482211003
-- João Pedro - 1780482121031
-- John Wesley Faria de Brito - 0030482211034
-- Júlia Rodrigues - 0030482211021
+- <a href="https://github.com/CahAntunes">Camila Antunes</a> - 0030482211017
+- <a href="https://github.com/Esdrasmelo">Esdras de Melo Motta</a> - 0030482211003
+- <a href="https://github.com/joao-pedro01">João Pedro</a> - 1780482121031
+- <a href="https://github.com/JOHNBRITO25">John Wesley Faria de Brito</a> - 0030482211034
+- <a href="https://github.com/RJjulia">Júlia Rodrigues</a> - 0030482211021
 
 ## Tema do projeto:
 O projeto consiste no desenvolvimento de uma aplicação web voltada para o gerenciamento de barbearias. A ideia surgiu a partir da observação da crescente demanda por serviços de barbearia, bem como da necessidade de melhorias nos processos de gestão desses estabelecimentos.
