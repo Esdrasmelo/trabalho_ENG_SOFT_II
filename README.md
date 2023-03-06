@@ -39,13 +39,13 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <h3>Back-end</h3>
 <ul>
 <li>Node.js</li>
-<li>Express</li>
+<li>Express.js</li>
+<li>Prisma.io (ORM)</li>
 </ul>
 
-<h3>Banco de Dados</h3>
+<h3>Banco de Dados (relacional)</h3>
 <ul>
-<li>Relacional</li>
-<li>MySql</li>
+<li>MySQL</li>
 </ul>
 
 <h3>Ferramentas e Tecnologias</h3>
