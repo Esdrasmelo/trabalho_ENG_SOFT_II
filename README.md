@@ -24,3 +24,36 @@ A aplicação será desenvolvida com tecnologias de ponta e muito utilizadas atu
 A utilização da aplicação web traz inúmeras vantagens para as barbearias, como a possibilidade de acessar o software de qualquer lugar, a redução de custos com a manutenção de servidores locais e a escalabilidade, permitindo que a aplicação possa ser utilizada por um grande número de barbearias sem comprometer o desempenho.
 
 Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como objetivo principal aprimorar a eficiência e a produtividade das barbearias, além de proporcionar uma melhor experiência para os clientes. Com funcionalidades como agendamento online, gestão financeira, gerenciamento de funcionários, a aplicação permitirá que os proprietários de barbearias se dediquem mais às atividades que realmente importam e tomem decisões mais precisas, garantindo o sucesso do negócio e proporcionando uma melhor experiência para o cliente, proprietário e também para os funcionários (barbeiros). Com essa ferramenta, a gestão de uma barbearia se torna muito mais eficiente e descomplicada, permitindo que o estabelecimento possa crescer e se destacar em um mercado cada vez mais competitivo.
+ 
+## Tecnologias
+
+<h3>Front-end</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Bootstrap</li>
+<li>React</li>
+</ul>
+
+<h3>Back-end</h3>
+<ul>
+<li>Node.js</li>
+<li>Express</li>
+</ul>
+
+<h3>Banco de Dados</h3>
+<ul>
+<li>Relacional</li>
+<li>MySql</li>
+</ul>
+
+<h3>Ferramentas e Tecnologias</h3>
+<ul>
+<li>Vs Code</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>brModelo</li>
+<li>diagram.io</li>
+<li>Swagger</li>
+</ul>
