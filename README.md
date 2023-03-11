@@ -57,3 +57,18 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <li>diagram.io</li>
 <li>Swagger</li>
 </ul>
+
+## Telas do projeto
+<br>
+<h3>Tela agendamento do cliente</h3>
+<img height="400" width="700" src="./images/agendamento_cliente.jpg" alt="Tela de agendamento do cliente">
+
+
+<br>
+<h3>Tela agendamento do profissional</h3>
+<img height="400" width="700" src="./images/agendamento_profissional.jpg" alt="Tela de agendamento do profissioanl">
+
+
+<br>
+<h3>Tela de aviso caso já tenha horário marcado</h3>
+<img height="400" width="700" src="./images/aviso_agendamento.jpg" alt="Tela de aviso caso já tenha horário marcado">
