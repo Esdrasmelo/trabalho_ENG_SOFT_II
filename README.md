@@ -54,7 +54,7 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <li>Git</li>
 <li>GitHub</li>
 <li>brModelo</li>
-<li>diagram.io</li>
+<li>dbdiagram.io</li>
 <li>Swagger</li>
 </ul>
 
