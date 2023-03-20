@@ -72,3 +72,9 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <br>
 <h3>Tela de aviso caso já tenha horário marcado</h3>
 <img height="400" width="700" src="./images/aviso_agendamento.jpg" alt="Tela de aviso caso já tenha horário marcado">
+
+## Observações do Professor - 20/03/2023:
+- Adicionar legenda abaixo ou próximo ao calendário informando sobre o que se refere cada cor aos quais os dias estão pintados;
+- Averiguar um valor "interessante"/viável para a mensalidade da aplicação, visto que a aplicação será cobrada via mensalidade;
+- Averiguar quantas assinaturas mensais são necessárias para que a empresa fique em uma situação financeira "saudável";
+- Definir um modelo/plano de negócio para que seja possível definirmos questões técnicas, como armazenamento, interfaces etc.
