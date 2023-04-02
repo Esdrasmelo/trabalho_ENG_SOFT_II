@@ -78,3 +78,6 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 - Averiguar um valor "interessante"/viável para a mensalidade da aplicação, visto que a aplicação será cobrada via mensalidade;
 - Averiguar quantas assinaturas mensais são necessárias para que a empresa fique em uma situação financeira "saudável";
 - Definir um modelo/plano de negócio para que seja possível definirmos questões técnicas, como armazenamento, interfaces etc.
+
+## Link do Protótipo
+https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2QOLUHnpBF7-0
