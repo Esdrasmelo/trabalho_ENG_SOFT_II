@@ -53,8 +53,8 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <li>Vs Code</li>
 <li>Git</li>
 <li>GitHub</li>
-<li>brModelo</li>
 <li>dbdiagram.io</li>
+<li><a href="">Figma<a/></li>
 <li>Swagger</li>
 </ul>
 
