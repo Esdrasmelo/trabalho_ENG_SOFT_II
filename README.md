@@ -54,7 +54,7 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <li>Git</li>
 <li>GitHub</li>
 <li>dbdiagram.io</li>
-<li><a href="">Figma<a/></li>
+<li><a href="https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2QOLUHnpBF7-0">Figma<a/></li>
 <li>Swagger</li>
 </ul>
 
