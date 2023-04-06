@@ -81,3 +81,7 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 
 ## Link do Protótipo
 https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2QOLUHnpBF7-0
+
+## Link do Diagrama de caso de uso
+
+<a href="https://app.creately.com/d/aHNFJuDwDW7/view">creately.com</a>
