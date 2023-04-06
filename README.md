@@ -84,4 +84,4 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 
 ## Link do Diagrama de caso de uso
 
-<a href="https://app.creately.com/d/aHNFJuDwDW7/view">creately.com</a>
+<img src="https://embed.creately.com/aHNFJuDwDW7?token=9ushgj82NGrog2XS&type=svg">
