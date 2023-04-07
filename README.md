@@ -85,3 +85,4 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 ## Link do Diagrama de caso de uso
 
 <img src="https://embed.creately.com/aHNFJuDwDW7?token=9ushgj82NGrog2XS&type=svg">
+<img src="https://embed.creately.com/SFujbM4xU6J?token=QoJfeVvGjwTMwWvg&type=svg">
