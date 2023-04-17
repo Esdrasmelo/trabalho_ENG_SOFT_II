@@ -33,13 +33,15 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 <li>CSS</li>
 <li>JavaScript</li>
 <li>Bootstrap</li>
-<li>React</li>
+<li>React.js</li>
 </ul>
 
 <h3>Back-end</h3>
 <ul>
 <li>Node.js</li>
+<li>Typescript</li>
 <li>Express.js</li>
+<li>GraphQL</li>
 <li>Prisma.io (ORM)</li>
 </ul>
 
