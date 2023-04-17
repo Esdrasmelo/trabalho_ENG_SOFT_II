@@ -82,6 +82,10 @@ Em resumo, o projeto de aplicação web de gerenciamento de barbearias tem como 
 ## Link do Protótipo
 https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2QOLUHnpBF7-0
 
+## Link do plano de negócios
+
+<a href="https://fatecspgov-my.sharepoint.com/:w:/r/personal/joao_pedro_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BB1B614EF-A844-46C0-A269-1030BAA02F8F%7D&file=Modelo%20de%20Negócio.docx&action=default&mobileredirect=true">Plano de negocios</a>
+
 ## Link do Diagrama de caso de uso
 
 <img src="https://embed.creately.com/aHNFJuDwDW7?token=9ushgj82NGrog2XS&type=svg">
