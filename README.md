@@ -86,7 +86,7 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 
 ## Link do plano de negócios
 
-<a href="https://fatecspgov-my.sharepoint.com/:w:/r/personal/joao_pedro_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BB1B614EF-A844-46C0-A269-1030BAA02F8F%7D&file=Modelo%20de%20Negócio.docx&action=default&mobileredirect=true">Plano de negocios</a>
+<a href="https://fatecspgov-my.sharepoint.com/:w:/g/personal/joao_pedro_fatec_sp_gov_br/Ee8UtrFEqMBGomkQMLqgL48B4Gl6fDiTwgJsMgygI8-Q0A?rtime=C_x4SEU_20g">Plano de negocios</a>
 
 ## Link do Diagrama de caso de uso
 
