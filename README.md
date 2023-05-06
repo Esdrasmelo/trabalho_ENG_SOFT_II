@@ -95,12 +95,12 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 ## Jornada do Usuário 
 <h3>Persona 1: Administrador </h3>
 <h4>Identificação da Persona </h4>
--	Nome: Claudio 
--	Idade: 37 anos
--	Localização: Sorocaba
+-	Nome: Claudio;
+-	Idade: 37 anos;
+-	Localização: Sorocaba;
 <h4>	Características Demográficas  </h4>
--	Profissão: Proprietário de uma rede de barbearias, com sedes no bairro do Campolim, no Centro e no bairro Santa Rosália.
--	Estado civil: Casado
+-	Profissão: Proprietário de uma rede de barbearias, com sedes no bairro do Campolim, no Centro e no bairro Santa Rosália;
+-	Estado civil: Casado;
 <h4>	Descrição Comportamental </h4> 
 -	Personalidade: Claudio é responsável e dedicado, que valoriza a qualidade dos serviços oferecidos pela a sua rede de barbearias. Ele é organizado e busca sempre otimizar seus recursos para maximizar os seus lucros e a satisfação de seus clientes. Claudio está sempre em busca de novidades e tendências do mercado de beleza masculina para oferecer serviços inovadores em sua rede.
 <h4>	Necessidades e Desafios </h4>
@@ -108,29 +108,29 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 
 <br>
 <h3> Persona 2: Cliente Fiel </h3>
-1.	Identificação da Persona
-•	Nome: Fernando 
-•	Idade: 23 anos
-•	Localização: Sorocaba
-2.	Características Demográficas  
-•	Profissão: Publicitário 
-•	Estado civil: Solteiro
-3.	Descrição Comportamental 
-•	Personalidade: Fernando é uma pessoa que gosta de cuidar de sua aparência. É uma pessoa que leva o seu trabalho a sério e acredita que a sua imagem interfere diretamente nele.
-4.	Necessidades e Desafios
-•	Fernando é um cliente fiel, todas as semanas ele vai à barbearia e busca mais praticidade para isso.
+<h4>	Identificação da Persona </h4>
+-	Nome: Fernando;
+-	Idade: 23 anos;
+-	Localização: Sorocaba;
+<h4>	Características Demográficas </h4> 
+-	Profissão: Publicitário;
+-	Estado civil: Solteiro;
+<h4>	Descrição Comportamental </h4>
+-	Personalidade: Fernando é uma pessoa que gosta de cuidar de sua aparência. É uma pessoa que leva o seu trabalho a sério e acredita que a sua imagem interfere diretamente nele.
+<h4>	Necessidades e Desafios</h4>
+-	Fernando é um cliente fiel, todas as semanas ele vai à barbearia e busca mais praticidade para isso.
 
 <br>
 <h3>Persona 3: Novo Cliente </h3>
-1.	Identificação da Persona
-•	Nome: Carlos
-•	Idade: 28 anos
-•	Localização: Sorocaba
-2.	Características Demográficas  
-•	Profissão: Enfermeiro 
-•	Estado civil: Casado
-3.	Descrição Comportamental 
-•	Personalidade: Fernando é dedicado à sua família e ao seu trabalho, e gosta de sempre bem com a sua autoestima. 
-4.	Necessidades e Desafios
-•	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia.
+<h4>	Identificação da Persona </h4>
+-	Nome: Carlos;
+-	Idade: 28 anos;
+-	Localização: Sorocaba;
+<h4>	Características Demográficas </h4> 
+-	Profissão: Enfermeiro;
+-	Estado civil: Casado;
+<h4>	Descrição Comportamental </h4>
+- Personalidade: Fernando é dedicado à sua família e ao seu trabalho, e gosta de sempre bem com a sua autoestima. 
+ <h4>	Necessidades e Desafios </h4>
+-	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia.
  <br>
