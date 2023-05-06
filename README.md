@@ -105,6 +105,9 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <li>	Personalidade: Claudio é responsável e dedicado, que valoriza a qualidade dos serviços oferecidos pela a sua rede de barbearias. Ele é organizado e busca sempre otimizar seus recursos para maximizar os seus lucros e a satisfação de seus clientes. Claudio está sempre em busca de novidades e tendências do mercado de beleza masculina para oferecer serviços inovadores em sua rede</li>
 <h4>	Necessidades e Desafios </h4>
 <li>	Os funcionários de Claudio estão relatando uma certa dificuldade para gerenciar os agendamentos do dia de cada unidade da rede </li>
+<h4> Link: </h4>
+<a href = "" > Jornada do Usuário Administrador </a>
+<br>
 
 <br>
 <h3> Persona 2: Cliente Fiel </h3>
@@ -119,6 +122,9 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <li>	Personalidade: Fernando é uma pessoa que gosta de cuidar de sua aparência. É uma pessoa que leva o seu trabalho a sério e acredita que a sua imagem interfere diretamente nele </li>
 <h4>	Necessidades e Desafios</h4>
 <li>	Fernando é um cliente fiel, todas as semanas ele vai à barbearia e busca mais praticidade para isso </li>
+<h4> Link: </h4>
+<a href = "" > Jornada do Usuário Cliente Fiel </a>
+<br>
 
 <br>
 <h3>Persona 3: Novo Cliente </h3>
@@ -133,4 +139,7 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <li> Personalidade: Fernando é dedicado à sua família e ao seu trabalho, e gosta de sempre bem com a sua autoestima </li>
  <h4>	Necessidades e Desafios </h4>
 <li>	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia </li>
+<h4> Link: </h4>
+<a href = "" > Jornada do Usuário Novo Cliente </a>
+<br>
 <br>
