@@ -106,7 +106,7 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <h4>	Necessidades e Desafios </h4>
 <li>	Os funcionários de Claudio estão relatando uma certa dificuldade para gerenciar os agendamentos do dia de cada unidade da rede </li>
 <h4> Link: </h4>
-<a href = "" > Jornada do Usuário Administrador </a>
+<a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornada do Usuário Administrador </a>
 <br>
 
 <br>
@@ -123,7 +123,7 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <h4>	Necessidades e Desafios</h4>
 <li>	Fernando é um cliente fiel, todas as semanas ele vai à barbearia e busca mais praticidade para isso </li>
 <h4> Link: </h4>
-<a href = "" > Jornada do Usuário Cliente Fiel </a>
+<a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornada do Usuário Cliente Fiel </a>
 <br>
 
 <br>
@@ -140,6 +140,6 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
  <h4>	Necessidades e Desafios </h4>
 <li>	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia </li>
 <h4> Link: </h4>
-<a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornadas dos Usuários</a>
+<a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornada do Usuário Cliente Novo</a>
 <br>
 <br>
