@@ -95,12 +95,12 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 ## Jornada do Usuário 
 <h3>Persona 1: Administrador </h3>
 <h4>Identificação da Persona </h4>
--	Nome: Claudio;
--	Idade: 37 anos;
--	Localização: Sorocaba;
+<li>	Nome: Claudio </li>
+<li>	Idade: 37 anos </li>
+<li>	Localização: Sorocaba</li>
 <h4>	Características Demográficas  </h4>
--	Profissão: Proprietário de uma rede de barbearias, com sedes no bairro do Campolim, no Centro e no bairro Santa Rosália;
--	Estado civil: Casado;
+<li>	Profissão: Proprietário de uma rede de barbearias, com sedes no bairro do Campolim, no Centro e no bairro Santa Rosália </li>
+<li>	Estado civil: Casado </li>
 <h4>	Descrição Comportamental </h4> 
 -	Personalidade: Claudio é responsável e dedicado, que valoriza a qualidade dos serviços oferecidos pela a sua rede de barbearias. Ele é organizado e busca sempre otimizar seus recursos para maximizar os seus lucros e a satisfação de seus clientes. Claudio está sempre em busca de novidades e tendências do mercado de beleza masculina para oferecer serviços inovadores em sua rede.
 <h4>	Necessidades e Desafios </h4>
@@ -109,12 +109,12 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <br>
 <h3> Persona 2: Cliente Fiel </h3>
 <h4>	Identificação da Persona </h4>
--	Nome: Fernando;
--	Idade: 23 anos;
--	Localização: Sorocaba;
+<li> Nome: Fernando </li>
+<li>	Idade: 23 anos </li>
+<li>	Localização: Sorocaba </li>
 <h4>	Características Demográficas </h4> 
--	Profissão: Publicitário;
--	Estado civil: Solteiro;
+<li> Profissão: Publicitário </li>
+<li>	Estado civil: Solteiro </li>
 <h4>	Descrição Comportamental </h4>
 -	Personalidade: Fernando é uma pessoa que gosta de cuidar de sua aparência. É uma pessoa que leva o seu trabalho a sério e acredita que a sua imagem interfere diretamente nele.
 <h4>	Necessidades e Desafios</h4>
@@ -123,12 +123,12 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <br>
 <h3>Persona 3: Novo Cliente </h3>
 <h4>	Identificação da Persona </h4>
--	Nome: Carlos;
--	Idade: 28 anos;
--	Localização: Sorocaba;
+<li>	Nome: Carlos </li>
+<li> Idade: 28 anos </li>
+<li>	Localização: Sorocaba </li>
 <h4>	Características Demográficas </h4> 
--	Profissão: Enfermeiro;
--	Estado civil: Casado;
+<li> Profissão: Enfermeiro </li>
+<li>	Estado civil: Casado </li>
 <h4>	Descrição Comportamental </h4>
 - Personalidade: Fernando é dedicado à sua família e ao seu trabalho, e gosta de sempre bem com a sua autoestima. 
  <h4>	Necessidades e Desafios </h4>
