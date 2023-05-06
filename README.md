@@ -92,4 +92,17 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 ![Untitled Workspace](https://user-images.githubusercontent.com/111017693/234022474-96cb4c80-2e23-4c46-86af-c7dc6df1eca3.png)
 
 
-##Jornada do Usuário 
+## Jornada do Usuário 
+<h3>Persona 1: Administrador </h3>
+1.	Identificação da Persona
+•	Nome: Claudio 
+•	Idade: 37 anos
+•	Localização: Sorocaba
+2.	Características Demográficas  
+•	Profissão: Proprietário de uma rede de barbearias, com sedes no bairro do Campolim, no Centro e no bairro Santa Rosália.
+•	Estado civil: Casado
+3.	Descrição Comportamental 
+•	Personalidade: Claudio é responsável e dedicado, que valoriza a qualidade dos serviços oferecidos pela a sua rede de barbearias. Ele é organizado e busca sempre otimizar seus recursos para maximizar os seus lucros e a satisfação de seus clientes. Claudio está sempre em busca de novidades e tendências do mercado de beleza masculina para oferecer serviços inovadores em sua rede.
+4.	Necessidades e Desafios
+•	Os funcionários de Claudio estão relatando uma certa dificuldade para gerenciar os agendamentos do dia de cada unidade da rede.
+
