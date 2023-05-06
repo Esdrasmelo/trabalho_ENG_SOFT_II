@@ -140,6 +140,6 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
  <h4>	Necessidades e Desafios </h4>
 <li>	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia </li>
 <h4> Link: </h4>
-<a href = "" > Jornada do Usuário Novo Cliente </a>
+<a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornadas dos Usuários</a>
 <br>
 <br>
