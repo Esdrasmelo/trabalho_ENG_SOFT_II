@@ -106,3 +106,31 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 4.	Necessidades e Desafios
 •	Os funcionários de Claudio estão relatando uma certa dificuldade para gerenciar os agendamentos do dia de cada unidade da rede.
 
+<br>
+<h3> Persona 2: Cliente Fiel </h3>
+1.	Identificação da Persona
+•	Nome: Fernando 
+•	Idade: 23 anos
+•	Localização: Sorocaba
+2.	Características Demográficas  
+•	Profissão: Publicitário 
+•	Estado civil: Solteiro
+3.	Descrição Comportamental 
+•	Personalidade: Fernando é uma pessoa que gosta de cuidar de sua aparência. É uma pessoa que leva o seu trabalho a sério e acredita que a sua imagem interfere diretamente nele.
+4.	Necessidades e Desafios
+•	Fernando é um cliente fiel, todas as semanas ele vai à barbearia e busca mais praticidade para isso.
+
+<br>
+<h3>Persona 3: Novo Cliente </h3>
+1.	Identificação da Persona
+•	Nome: Carlos
+•	Idade: 28 anos
+•	Localização: Sorocaba
+2.	Características Demográficas  
+•	Profissão: Enfermeiro 
+•	Estado civil: Casado
+3.	Descrição Comportamental 
+•	Personalidade: Fernando é dedicado à sua família e ao seu trabalho, e gosta de sempre bem com a sua autoestima. 
+4.	Necessidades e Desafios
+•	Certo dia sua esposa fala que seus cabelos e sua barba estão muito grandes e que seria melhor ele ir à uma barbearia, mas Carlos e sua esposa residem a pouco tempo na cidade de Sorocaba, portanto Carlos não conhece nenhuma barbearia.
+ <br>
