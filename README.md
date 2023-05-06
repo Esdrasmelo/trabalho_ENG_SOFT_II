@@ -90,3 +90,6 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 
 ## Link do Diagrama de caso de uso
 ![Untitled Workspace](https://user-images.githubusercontent.com/111017693/234022474-96cb4c80-2e23-4c46-86af-c7dc6df1eca3.png)
+
+
+##Jornada do Usuário 
