@@ -144,3 +144,6 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <a href = "https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?type=design&node-id=313-1496&t=KoVZJ92ps1mIMH5M-4" > Jornada do Usuário Cliente Novo</a>
 <br>
 <br>
+
+## Link do Diagrama de caso de uso
+<a href="https://drive.google.com/file/d/1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J/view?usp=sharing">Diagrama caso de uso</a>
