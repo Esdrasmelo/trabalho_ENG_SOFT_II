@@ -147,3 +147,6 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 
 ## Link do Diagrama de caso de uso
 <a href="https://drive.google.com/file/d/1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J/view?usp=sharing">Diagrama caso de uso</a>
+
+## Link do Modelo Conceitual
+
