@@ -145,7 +145,11 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <br>
 <br>
 
-## Link do Diagrama de caso de uso
+## Link do Diagrama de caso de uso (atualizado) e Modelo Conceitual
+O link abaixo te redirecionará para uma página do Google Drive onde no topo da página terá uma opção "Abrir com" ou "Open with". Clicando nessa opção, aparecerá a opção de abrir o diagrama no site em que ele foi feito.
+Recomendamos seguir esse passo a passo e abrir o diagrama direto no site em que ele foi feito, pois por algum motivo a imagem de pré-visualização não está com uma boa definição, fazendo-se necessário abrir diretamente no site de origem.
+<br>
+<br>
 <a href="https://drive.google.com/file/d/1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J/view?usp=sharing">Diagrama caso de uso</a>
 
 
