@@ -150,6 +150,6 @@ O link abaixo te redirecionará para uma página do Google Drive onde no topo da
 Recomendamos seguir esse passo a passo e abrir o diagrama direto no site em que ele foi feito, pois por algum motivo a imagem de pré-visualização não está com uma boa definição, fazendo-se necessário abrir diretamente no site de origem.
 <br>
 <br>
-<a href="[https://drive.google.com/file/d/1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J/view?usp=sharing](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20Caso%20de%20uso#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J%26export%3Ddownload)https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20Caso%20de%20uso#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J%26export%3Ddownload">Diagrama Caso de Uso e Classes</a>
+<a href="https://drive.google.com/file/d/1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J/view?usp=sharing](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20Caso%20de%20uso#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J%26export%3Ddownload)https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20Caso%20de%20uso#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1yx8a2BfDlGu9XkvZa6Vfwn5GivfhHM0J%26export%3Ddownload">Diagrama Caso de Uso e Classes</a>
 
 
