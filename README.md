@@ -89,7 +89,8 @@ https://www.figma.com/file/uG8qZ9EWqx1LUCFbViWIly/Untitled?node-id=0-1&t=ZHjqJ2Q
 <a href="https://fatecspgov-my.sharepoint.com/:w:/g/personal/joao_pedro_fatec_sp_gov_br/Ee8UtrFEqMBGomkQMLqgL48B4Gl6fDiTwgJsMgygI8-Q0A?rtime=C_x4SEU_20g">Plano de negocios</a>
 
 ## Diagrama de caso de uso
-![Diagrama Caso de uso](https://github.com/Esdrasmelo/trabalho_ENG_SOFT_II/assets/111017693/36267c29-cb63-4065-9548-82d6f3b5ed74)
+![Caso de uso GIT](https://github.com/Esdrasmelo/trabalho_ENG_SOFT_II/assets/111017693/ec0c866d-225f-4087-9be5-8a2db4bb938e)
+
 
 
 
