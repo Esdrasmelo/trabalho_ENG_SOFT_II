@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+    <div class="container">
+        <div class="header">
+            <img id="logotipo" src="https://i.pinimg.com/originals/9f/21/76/9f2176fc92db3fe7c9c1ede0a4bf27b2.png">
+            <h3>Funcionarios</h3>
+            <button onclick="openCreateModal()" id="incluir">Incluir</button>
+        </div>
+
+        <div class="Tabela">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Codigo</th>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>Função</th>
+                        <th>Salario</th>
+                        <th>Contato</th>
+                        <th>Ativo</th>
+                        <th>Editar</th>
+                    </tr>
+                </thead>
+                <tbody id="tabody">
+
+                </tbody>
+            </table>
+        </div>
+
+        <div class="modal-container" id="modalCriar">
+            <div class="modal">
+                <form>
+                    <label for="m-nome">Nome</label>
+                    <input id="m-nome" type="text" required />
+
+                    <label for="m-email">Email</label>
+                    <input id="m-email" type="email" required />
+
+                    <label for="m-senha">Senha</label>
+                    <input id="m-senha" type="password" required />
+
+                    <label for="m-salario">Salario</label>
+                    <input id="m-salario" type="number" required />
+
+                    <label for="m-contato">Contato</label>
+                    <input id="m-contato" type="text" required />
+
+                    <label for="m-ativo">Ativo</label>
+                    <input id="m-ativo" type="text" required />
+
+                    <button id="btnSalvar">Salvar</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="modal-container" id="modalEditar">
+            <div class="modal">
+                <form>
+                    <label for="m-nome-editar">Nome</label>
+                    <input id="m-nome-editar" type="text" required />
+
+                    <label for="m-email-editar">Email</label>
+                    <input id="m-email-editar" type="email" required />
+
+                    <label for="m-salario-editar">Salario</label>
+                    <input id="m-salario-editar" type="number" required />
+
+                    <label for="m-contato-editar">Contato</label>
+                    <input id="m-contato-editar" type="text" required />
+
+                    <label for="m-ativo-editar">Ativo</label>
+                    <input id="m-ativo-editar" type="text" required />
+
+                    <button id="btnSalvarEditar">Salvar</button>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
